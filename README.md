@@ -1,6 +1,6 @@
 # The king's hall
 
-"Create An Immersive Experience With Three.js And GSAP" YouTube tutorial project files https://youtu.be/U-ZiSLwicK8
+
 
 1. Download repository
 2. Install Parcel by typing the following command: npm install parcel -g
